@@ -28,3 +28,8 @@
 
 ## 7. 실행 방법
 - 압축 해제 후, CPCON.html 실행
+
+## 8. 프로그램 실행 화면
+
+![CPCON_캡쳐1](https://user-images.githubusercontent.com/85774577/221391161-ea7d5ef8-3b04-4f22-9f79-2024c0985878.png)
+![CPCON_캡쳐2](https://user-images.githubusercontent.com/85774577/221391166-439b4d0f-a9b8-41ef-9a35-24f90c5f5847.png)
